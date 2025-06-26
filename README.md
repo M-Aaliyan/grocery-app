@@ -22,6 +22,8 @@
 
 # Instructions to run app:
 
+pre-requisite: have docker/docker desktop installed and running
+
 1. run `docker-compose up --build`
 
 2. open browser and go to `http://localhost:3000`
