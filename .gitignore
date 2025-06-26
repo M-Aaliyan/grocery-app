@@ -1,0 +1,28 @@
+# Node.js dependencies and build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+dist-ssr/
+
+# Python virtual environments and bytecode
+backend/venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor/project files
+.vscode/
+.idea/
+.DS_Store
+
+# Docker/Postgres data
+db/
